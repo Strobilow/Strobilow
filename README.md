@@ -1,4 +1,9 @@
-### Hi there 👋
+### Whalecome to my profile!
+
+I'm currently learing Golang, PHP & JavaScript.
+I'm currently working on Nothing.
+Ask me about my nose.
+How to reach me: Don't
 
 <!--
 **Strobilow/Strobilow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
